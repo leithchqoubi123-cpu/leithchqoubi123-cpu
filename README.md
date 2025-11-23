@@ -1,16 +1,24 @@
-## Hi there 👋
+💼 Leith CHQOUBI
+Pharmacist | Clinical AI Architect (in training) | Medical AI & Machine Learning
+🔬 Passionné par l’IA appliquée à la santé
+📊 Machine Learning & Data Science médicale
+🧠 Optimisation des modèles, validation clinique, interprétabilité
+💻 Développement de modèles IA pour le dépistage et l’aide à la décision clinique
+🚀 Objectif : créer des solutions IA vendables pour CHU, hôpitaux et startups santé
 
-<!--
-**leithchqoubi123-cpu/leithchqoubi123-cpu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+📌 Compétences principales
+Python (bases), Pandas, Numpy
+Machine Learning appliqué santé
+Deep Learning médical (début)
+SHAP, LIME, interprétabilité
+Prétraitement et analyse de données médicales
+Déploiement simple API + interface
 
-Here are some ideas to get you started:
+📂 Projets
+AI-for-Diabetes — Modèle IA de dépistage du diabète
+Semaine 2 – Analyse Data Santé (à venir)
+autres projets IA médicale
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+💬 Contact
+📨 leithchqoubi123@gmail.com
+🌍 Cluj-Napoca | France (mobilité)
