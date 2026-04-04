@@ -21,4 +21,4 @@ autres projets IA médicale
 
 💬 Contact
 📨 leithchqoubi123@gmail.com
-🌍 Cluj-Napoca | France (mobilité)
+🌍 Cluj-Napoca | France
