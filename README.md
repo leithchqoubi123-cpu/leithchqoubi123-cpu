@@ -4,7 +4,7 @@ Pharmacist | Clinical AI Architect (in training) | Medical AI & Machine Learning
 📊 Machine Learning & Data Science médicale
 🧠 Optimisation des modèles, validation clinique, interprétabilité
 💻 Développement de modèles IA pour le dépistage et l’aide à la décision clinique
-🚀 Objectif : créer des solutions IA vendables pour CHU, hôpitaux et startups santé
+🚀 Objectif : créer des solutions IA pour CHU, hôpitaux et startups santé
 
 📌 Compétences principales
 Python (bases), Pandas, Numpy
