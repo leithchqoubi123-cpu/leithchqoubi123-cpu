@@ -1,24 +1,23 @@
-💼 Leith CHQOUBI
-Pharmacist | Clinical AI Architect (in training) | Medical AI & Machine Learning
-🔬 Passionné par l’IA appliquée à la santé
-📊 Machine Learning & Data Science médicale
-🧠 Optimisation des modèles, validation clinique, interprétabilité
-💻 Développement de modèles IA pour le dépistage et l’aide à la décision clinique
-🚀 Objectif : créer des solutions IA pour CHU, hôpitaux et startups santé
+## Leith Chqoubi
 
-📌 Compétences principales
-Python (bases), Pandas, Numpy
-Machine Learning appliqué santé
-Deep Learning médical (début)
-SHAP, LIME, interprétabilité
-Prétraitement et analyse de données médicales
-Déploiement simple API + interface
+Pharmacien (PharmD) · M1 Data Science en Santé, Université de Lille (ILIS)
 
-📂 Projets
-AI-for-Diabetes — Modèle IA de dépistage du diabète
-Semaine 2 – Analyse Data Santé (à venir)
-autres projets IA médicale
+Je travaille à l'intersection du médicament et des données de santé : données en vie réelle (RWE), évaluation médico-économique (HEOR), entrepôts de données hospitaliers.
 
-💬 Contact
-📨 leithchqoubi123@gmail.com
-🌍 Cluj-Napoca | France
+**Recherche un stage de 5 mois (5 avril – 21 août 2027)** en données de santé, RWE ou HEOR.
+
+### Outils
+
+- **R** : statistiques, ACP, régression linéaire
+- **SQL** : constitution de cohortes, data management
+- **Python** : scikit-learn, XGBoost, SHAP
+- Formé aux Bonnes Pratiques Cliniques (ICH E6 R3)
+
+### Projets
+
+- [AI-for-Diabetes](https://github.com/leithchqoubi123-cpu/AI-for-Diabetes) : modèle de risque de diabète de type 2 (XGBoost, explicabilité SHAP), [application déployée sur Hugging Face](https://huggingface.co/spaces/CHQOUBI/detection-diabete-ia)
+- [neuropharm-rag](https://github.com/leithchqoubi123-cpu/neuropharm-rag) : assistant RAG sur les recommandations HAS / SFEMC pour la migraine (Vertex AI, Streamlit)
+
+### Contact
+
+leith.chqoubi.pharmd@gmail.com · Lille, France
